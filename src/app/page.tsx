@@ -396,7 +396,7 @@ export default function Home() {
         className="w-full mt-[-00px] relative -z-10"
       /> */}
         
-        <div className="absolute inset-x-0 bottom-0 h-64 bg-gradient-to-t from-black/80 to-transparent -z-10"></div>
+        <div className="absolute inset-x-0 bottom-0 h-64 bg-gradient-to-t from-white/10 to-transparent -z-10"></div>
         
       </div>
     </div>
